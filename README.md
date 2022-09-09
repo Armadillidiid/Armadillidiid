@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Armadillidiid
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning DApp development
-- 💞️ I’m looking to collaborate on DApp
+- 🌱 I’m currently into web development
 - 📫 How to reach me: emmanuelisenah@gmail.com
 
 <!---
