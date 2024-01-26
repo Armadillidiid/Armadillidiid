@@ -10,16 +10,12 @@
 - 👨🏾‍💻 Full-stack web development
 - 📝 Technical Writing
   
-# 👀 Follow me on
-- Hashnode: [@Debtless5329](https://hashnode.com/@Debtless5329) 
-- LinkedIn: [Emmanuel Isenah](https://www.linkedin.com/in/emmanuel-isenah-541593190)
-
-# ⚡ Fun fact
-- I enjoy visiting new places ✈️
-- I enjoy competitive programming 🧩
-
 # My contributions
 ![Emmanuel Isenah's Github Stats](https://github-readme-stats.vercel.app/api?username=Armadillidiid&count_private=true&show_icons=true&theme=dark)
 
 # Most used languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Armadillidiid&count_private=true&layout=compact&title_color=553c9a&text_color=1a202c&hide=jupyter%20notebook,html)
+
+# 👀 Follow me on
+- Hashnode: [@Debtless5329](https://hashnode.com/@Debtless5329) 
+- LinkedIn: [Emmanuel Isenah](https://www.linkedin.com/in/emmanuel-isenah-541593190)
