@@ -21,7 +21,7 @@
 <!-- - LinkedIn: [Emmanuel Isenah](https://www.linkedin.com/in/emmanuel-isenah-541593190) -->
 
 <div align="left">
-  <a href="https://hashnode.com/@Debtless5329" target="_blank">
+  <a href="https://hashnode.com/@EIsenah" target="_blank">
     <img src="https://img.shields.io/badge/Debtless5329-blue?style=for-the-badge&logo=hashnode" height="35" alt="hashnode logo"  />
   </a>
    <a href="https://twitter.com/EIsenah" target="_blank">
