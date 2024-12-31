@@ -22,7 +22,7 @@
 
 <div align="left">
   <a href="https://hashnode.com/@EIsenah" target="_blank">
-    <img src="https://img.shields.io/badge/Debtless5329-blue?style=for-the-badge&logo=hashnode" height="35" alt="hashnode logo"  />
+    <img src="https://img.shields.io/badge/EIsenah-blue?style=for-the-badge&logo=hashnode" height="35" alt="hashnode logo"  />
   </a>
    <a href="https://twitter.com/EIsenah" target="_blank">
     <img src="https://img.shields.io/badge/EIsenah-black?style=for-the-badge&logo=x" height="35" alt="twitter logo"  />
